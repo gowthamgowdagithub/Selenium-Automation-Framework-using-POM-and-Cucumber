@@ -1,0 +1,256 @@
+20240626 14:17:05 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:17:05 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:17:06 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:17:07 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 14:17:10 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:17:10 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:17:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:17:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 14:17:13 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:17:13 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:17:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:17:15 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 14:17:17 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:17:17 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:17:18 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:17:18 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 14:17:19 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:17:19 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:17:20 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:17:21 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 14:48:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:48:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:48:48 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:48:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 14:48:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The  has been entered in Password textbox.
+20240626 14:48:51 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Login is clicked.
+20240626 14:48:51 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Please enter your password.
+20240626 14:48:51 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual and expected text are same.
+20240626 14:48:51 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 14:48:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:48:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:48:53 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:48:54 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 14:48:54 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @d has been entered in Password textbox.
+20240626 14:48:56 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Login is clicked.
+20240626 14:48:56 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The title is displayed.
+20240626 14:48:56 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Login | Salesforce
+20240626 14:48:56 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 14:48:57 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:48:57 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:48:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:48:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 14:48:59 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @d has been entered in Password textbox.
+20240626 14:49:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Remember Me. is clicked.
+20240626 14:49:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Login is clicked.
+20240626 14:49:01 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The title is displayed.
+20240626 14:49:01 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Login | Salesforce
+20240626 14:49:21 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 14:49:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:49:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:49:23 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:49:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 14:49:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Forget password Link is clicked.
+20240626 14:49:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The title is displayed.
+20240626 14:49:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Forgot Your Password | Salesforce
+20240626 14:49:25 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 14:49:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Continue is clicked.
+20240626 14:49:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The title is displayed.
+20240626 14:49:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Check Your Email | Salesforce
+20240626 14:49:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - We’ve sent you an email with a link to finish resetting your password.
+Can’t find the email? Try checking your spam folder.
+If you still can’t log in, have us resend the email or contact your Salesforce administrator.
+20240626 14:49:27 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - The actual and expected text are not same.
+20240626 14:49:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 14:49:28 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:49:28 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:49:29 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:49:30 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 14:49:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @d has been entered in Password textbox.
+20240626 14:49:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Login is clicked.
+20240626 14:49:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240626 14:49:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual and expected text are same.
+20240626 14:49:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 14:52:29 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:52:29 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:52:30 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:52:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 14:52:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The  has been entered in Password textbox.
+20240626 14:52:33 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Login is clicked.
+20240626 14:52:33 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Please enter your password.
+20240626 14:52:33 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual and expected text are same.
+20240626 14:52:33 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 14:52:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:52:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:52:35 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:52:36 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 14:52:36 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240626 14:52:39 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Login is clicked.
+20240626 14:52:40 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The title is displayed.
+20240626 14:52:40 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: 
+20240626 14:52:40 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 14:52:41 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:52:41 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:52:42 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:52:43 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 14:52:43 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240626 14:52:44 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Remember Me. is clicked.
+20240626 14:52:46 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Login is clicked.
+20240626 14:52:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The title is displayed.
+20240626 14:52:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Home Page ~ Salesforce - Developer Edition
+20240626 14:52:50 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The User Menu Drop Down is clicked.
+20240626 14:52:50 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Logout is clicked.
+20240626 14:52:50 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The title is displayed.
+20240626 14:52:50 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: 
+20240626 14:52:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The User Name Display is displayed.
+20240626 14:52:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - katte@tekarch.com
+20240626 14:52:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual User Name Display is same as expected User Name Display.
+20240626 14:52:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Remember Me checkBox is selected check box is selected.
+20240626 14:52:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 14:52:53 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:52:53 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:52:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:52:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 14:52:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Forget password Link is clicked.
+20240626 14:52:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The title is displayed.
+20240626 14:52:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Forgot Your Password | Salesforce
+20240626 14:52:56 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 14:52:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Continue is clicked.
+20240626 14:52:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The title is displayed.
+20240626 14:52:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Check Your Email | Salesforce
+20240626 14:52:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - We’ve sent you an email with a link to finish resetting your password.
+Can’t find the email? Try checking your spam folder.
+If you still can’t log in, have us resend the email or contact your Salesforce administrator.
+20240626 14:52:58 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - The actual and expected text are not same.
+20240626 14:52:58 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 14:52:59 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:52:59 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:53:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:53:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The 123 has been entered in UserName textbox.
+20240626 14:53:01 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The 12132 has been entered in Password textbox.
+20240626 14:53:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Login is clicked.
+20240626 14:53:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240626 14:53:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual and expected text are same.
+20240626 14:53:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 14:58:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:58:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:58:01 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:58:01 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 14:58:02 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The  has been entered in Password textbox.
+20240626 14:58:03 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Login is clicked.
+20240626 14:58:03 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Please enter your password.
+20240626 14:58:03 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual and expected text are same.
+20240626 14:58:03 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 14:58:04 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:58:04 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:58:05 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:58:06 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 14:58:07 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240626 14:58:09 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Login is clicked.
+20240626 14:58:10 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The title is displayed.
+20240626 14:58:10 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: 
+20240626 14:58:10 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 14:58:11 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:58:11 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:58:12 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:58:13 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 14:58:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240626 14:58:14 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Remember Me. is clicked.
+20240626 14:58:16 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Login is clicked.
+20240626 14:58:19 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The title is displayed.
+20240626 14:58:19 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Home Page ~ Salesforce - Developer Edition
+20240626 14:58:19 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The User Menu Drop Down is clicked.
+20240626 14:58:20 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Logout is clicked.
+20240626 14:58:20 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The title is displayed.
+20240626 14:58:20 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: 
+20240626 14:58:21 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The User Name Display is displayed.
+20240626 14:58:21 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - katte@tekarch.com
+20240626 14:58:21 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual User Name Display is same as expected User Name Display.
+20240626 14:58:21 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Remember Me checkBox is selected check box is selected.
+20240626 14:58:21 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 14:58:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:58:22 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:58:23 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:58:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 14:58:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Forget password Link is clicked.
+20240626 14:58:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The title is displayed.
+20240626 14:58:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Forgot Your Password | Salesforce
+20240626 14:58:24 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 14:58:26 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Continue is clicked.
+20240626 14:58:26 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The title is displayed.
+20240626 14:58:26 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Check Your Email | Salesforce
+20240626 14:58:26 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - We’ve sent you an email with a link to finish resetting your password.
+Can’t find the email? Try checking your spam folder.
+If you still can’t log in, have us resend the email or contact your Salesforce administrator.
+20240626 14:58:26 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - The actual and expected text are not same.
+20240626 14:58:26 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 14:58:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 14:58:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 14:58:28 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 14:58:29 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The 123 has been entered in UserName textbox.
+20240626 14:58:29 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The 12132 has been entered in Password textbox.
+20240626 14:58:30 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Login is clicked.
+20240626 14:58:30 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240626 14:58:30 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual and expected text are same.
+20240626 14:58:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 15:04:26 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 15:04:26 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 15:04:27 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 15:04:28 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 15:04:29 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The  has been entered in Password textbox.
+20240626 15:04:30 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Login is clicked.
+20240626 15:04:30 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Please enter your password.
+20240626 15:04:30 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual and expected text are same.
+20240626 15:04:30 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 15:04:31 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 15:04:32 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 15:04:33 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 15:04:33 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 15:04:34 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240626 15:04:36 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Login is clicked.
+20240626 15:04:37 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The title is displayed.
+20240626 15:04:37 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: 
+20240626 15:04:37 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 15:04:38 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 15:04:39 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 15:04:40 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 15:04:40 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 15:04:41 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The @dummu$G879 has been entered in Password textbox.
+20240626 15:04:41 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Remember Me. is clicked.
+20240626 15:04:43 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Login is clicked.
+20240626 15:04:46 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The title is displayed.
+20240626 15:04:46 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Home Page ~ Salesforce - Developer Edition
+20240626 15:04:46 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The User Menu Drop Down is clicked.
+20240626 15:04:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Logout is clicked.
+20240626 15:04:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The title is displayed.
+20240626 15:04:47 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: 
+20240626 15:04:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The User Name Display is displayed.
+20240626 15:04:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - katte@tekarch.com
+20240626 15:04:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual User Name Display is same as expected User Name Display.
+20240626 15:04:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Remember Me checkBox is selected check box is selected.
+20240626 15:04:49 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 15:04:50 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 15:04:50 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 15:04:51 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 15:04:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 15:04:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Forget password Link is clicked.
+20240626 15:04:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The title is displayed.
+20240626 15:04:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Forgot Your Password | Salesforce
+20240626 15:04:52 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The katte@tekarch.com has been entered in UserName textbox.
+20240626 15:04:54 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Continue is clicked.
+20240626 15:04:54 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The title is displayed.
+20240626 15:04:54 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Current page title is: Check Your Email | Salesforce
+20240626 15:04:54 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - We’ve sent you an email with a link to finish resetting your password.
+Can’t find the email? Try checking your spam folder.
+If you still can’t log in, have us resend the email or contact your Salesforce administrator.
+20240626 15:04:54 ERROR [main] Utilities.Log4j2Utility Log4j2Utility.java18 - The actual and expected text are not same.
+20240626 15:04:55 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
+20240626 15:04:56 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Chrome Browser is launched.
+20240626 15:04:56 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Window has been maximized.
+20240626 15:04:57 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The application url has been entered.
+20240626 15:04:57 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The 123 has been entered in UserName textbox.
+20240626 15:04:57 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The 12132 has been entered in Password textbox.
+20240626 15:04:59 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The Login is clicked.
+20240626 15:04:59 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240626 15:04:59 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - The actual and expected text are same.
+20240626 15:05:00 INFO  [main] Utilities.Log4j2Utility Log4j2Utility.java14 - All the testCases are passed so browser is closed.
